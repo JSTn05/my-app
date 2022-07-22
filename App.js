@@ -97,7 +97,7 @@ import { MaterialCommunityIcons as Icon} from 'react-native-vector-icons';
 		case -1: return <Icon name='circle-outline' style={styles.tileO}/>;
 		default: return <View/>;
 	}
-}
+ }  
 
 
 	render (){
